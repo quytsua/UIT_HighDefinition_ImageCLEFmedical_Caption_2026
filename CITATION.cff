@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying CLEF 2026 working-notes paper and this software repository."
+title: "UIT_HighDefinition ImageCLEFmedical Caption 2026"
+version: "v1.0.0"
+date-released: "2026-06-27"
+license: "Apache-2.0"
+url: "https://github.com/quytsua/UIT_HighDefinition_ImageCLEFmedical_Caption_2026"
+authors:
+  - family-names: "Nguyen"
+    given-names: "Tan Duy"
+    orcid: "https://orcid.org/0009-0003-1969-3388"
+  - family-names: "Nguyen"
+    given-names: "Thi Quynh Han"
+    orcid: "https://orcid.org/0009-0000-0042-8523"
+  - family-names: "Nguyen"
+    given-names: "Minh Triet"
+    orcid: "https://orcid.org/0009-0009-4476-9472"
+  - family-names: "Nguyen-Tat"
+    given-names: "Thien B."
+    orcid: "https://orcid.org/0000-0002-4809-7126"
+repository-code: "https://github.com/quytsua/UIT_HighDefinition_ImageCLEFmedical_Caption_2026"
+keywords:
+  - ImageCLEFmedical
+  - medical image captioning
+  - Qwen3-VL
+  - UMLS
+  - CUI
+  - reproducibility
